@@ -5,7 +5,7 @@ public class Branch {
     String branch2;
 
     public Branch(String branch1) {
-        this.branch2 = branch1;
+        this.branch1 = branch1;
     }
     
 }

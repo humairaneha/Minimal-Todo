@@ -5,10 +5,12 @@ public class File {
     public:
        int i;
     int j;
-    String B;
 
-    public File(String b) {
-        B = b;
+    String A;
+
+    public File(String a) {
+        A = a;
+
     }
 
     public File(int i, int j) {

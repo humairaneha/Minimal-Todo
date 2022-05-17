@@ -5,6 +5,11 @@ public class File {
     public:
        int i;
     int j;
+    String A;
+
+    public File(String a) {
+        A = a;
+    }
 
     public File(int i, int j) {
         this.i = i;
